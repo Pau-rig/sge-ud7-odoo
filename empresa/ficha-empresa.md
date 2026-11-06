@@ -2,7 +2,7 @@
 
 En este documento vamos a recopilar la informacion empresarial de nuestra empresa como lo seria los datos corporativos de Littel Tous, su catalogo y sus clientes.
 
-## Datos corposrtivos 
+## Datos corporativos 
 En este apartado detallaremos los datos legales de nuestra empresa.
 
 - **Nombre comercial:** Littel Tous
@@ -67,7 +67,7 @@ Estos clientes nos muestra dos diferentes de compras como lo serian una empresa 
 ### 1. Cliente Empresa (B2B)
 
 - **Nombre:** Escuela Infantil Los Pitufos S.L.
-- **NIF/CIF:** B-41999888
+- **NIF/CIF:** ESA12345674
 - **Dirección:** Av. de la Innovación, 4, 41020 Sevilla
 - **Email:** compras@eipitufos.es
 - **Teléfono:** 954 23 45 75
@@ -75,7 +75,7 @@ Estos clientes nos muestra dos diferentes de compras como lo serian una empresa 
 ### 2. Cliente Personal (B2C)
 
 - **Nombre:** Maria Martínez Ruiz
-- **NIF/CIF:** 643233342A
+- **NIF/CIF:** ESA12345674
 - **Dirección:** Calle Primavera, 15, 41009 Sevilla
 - **Email:** maria.mr@gmail.com
 - **Teléfono:** 600 12 43 54
