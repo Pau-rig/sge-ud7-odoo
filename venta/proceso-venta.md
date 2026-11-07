@@ -1,4 +1,4 @@
-#Proceso de Venta Completo
+# Proceso de Venta Completo
 
 En este documento se datallara el proceso dek comercio que realiza nuestra empresa.
 
